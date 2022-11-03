@@ -1,0 +1,19 @@
+.app {
+    max-width: 1440px; 
+    margin: 0 auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column; 
+}
+
+label, input {
+    display: block; 
+    font-family: "Poppins", sans-serif; 
+    font-size: 13px; 
+    text-align: center; 
+}
+
+input {
+    margin-bottom: 20px; 
+}
